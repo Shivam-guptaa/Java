@@ -16,7 +16,13 @@ public class ARRay {
         System.out.println(marks.length*60);
     System.out.println(x);
 //        int[][] flat =  {{0,1,6},{2,6,7}};
-//        int[][] flat2 = {{6,7,9},{5,67,6}};
+//        int[][] flat2 = {{6,7,9},{5,67,6}}
+        //  String names[] = {"Aditya","Shivam","Rahul","Sagar","Adi"};
+        // for(int i=0;i<names.length;i++) {
+        //     if (i % 2 != 0) {
+        //         System.out.println(names[i]);
+        //     }
+        // };
 
     }
 }
